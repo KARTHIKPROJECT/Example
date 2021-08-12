@@ -10,7 +10,7 @@ double second = reader.nextDouble();
 System.out.print("Enter an operator (+, -, *, /): ");
 char operator = reader.next().charAt(0);
 double result;
-//switch case for each of the operations
+//Operation Done 
 switch(operator)
 {
 case '+':
